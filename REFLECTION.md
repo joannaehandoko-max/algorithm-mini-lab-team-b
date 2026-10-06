@@ -22,23 +22,23 @@ Pull Request / Commit I contributed: Checking the code if it works or not
 
 ---
 
-## Student B: _Name_
+## Student B: _Joanna Evangeline Handoko_
 
-My main contribution:
+My main contribution: making the code and run it
 
-The algorithm I understand best:
+The algorithm I understand best: it's djikstra
 
-The algorithm that was most difficult:
+The algorithm that was most difficult: it's DFS
 
-Something my teammate taught me:
+Something my teammate taught me: they help how to write the code and how to run them
 
-Something AI helped me understand:
+Something AI helped me understand: it help me understand how to write the code
 
-One thing AI gave me that I had to check:
+One thing AI gave me that I had to check: the code writing
 
-GitHub Issue I worked on:
+GitHub Issue I worked on: nothing
 
-Pull Request / Commit I contributed:
+Pull Request / Commit I contributed: writing the code with better accuracy
 
 ---
 
