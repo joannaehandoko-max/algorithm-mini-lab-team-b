@@ -2,23 +2,23 @@
 
 Each student writes ONLY their own section, in their own words, from their own GitHub account.
 
-## Student A: _Name_
+## Student A: _Satria Danish Khan_
 
-My main contribution:
+My main contribution:I tested the code and fixing some flaw along the way.
 
-The algorithm I understand best:
+The algorithm I understand best:It is Djikstra.go
 
-The algorithm that was most difficult:
+The algorithm that was most difficult: It is DFS.go
 
-Something my teammate taught me:
+Something my teammate taught me:to make me understand how the code work before i tested.
 
-Something AI helped me understand:
+Something AI helped me understand:It's how the code run, and think
 
-One thing AI gave me that I had to check:
+One thing AI gave me that I had to check:the value
 
-GitHub Issue I worked on:
+GitHub Issue I worked on:Nothing
 
-Pull Request / Commit I contributed:
+Pull Request / Commit I contributed:Checking the code if it works or not
 
 ---
 
