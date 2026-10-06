@@ -42,20 +42,20 @@ Pull Request / Commit I contributed: writing the code with better accuracy
 
 ---
 
-## Student C: _Name_
+## Student C: _najiib rahmawan_
 
-My main contribution:
+My main contribution: the process of reviewing program code written by team members
 
-The algorithm I understand best:
+The algorithm I understand best: djikstra
 
-The algorithm that was most difficult:
+The algorithm that was most difficult: inserction-sort
 
-Something my teammate taught me:
+Something my teammate taught me: a way to understand how code runs
 
-Something AI helped me understand:
+Something AI helped me understand: how to crosscheck code
 
-One thing AI gave me that I had to check:
+One thing AI gave me that I had to check: precision and accuracy regarding the code
 
-GitHub Issue I worked on:
+GitHub Issue I worked on:nothing
 
-Pull Request / Commit I contributed:
+Pull Request / Commit I contributed:crosscheck code
