@@ -1,5 +1,4 @@
-// Experiment 2: Depth-First Search (DFS)
-// Run with: go run experiments/dfs/main.go
+
 package main
 
 import (
